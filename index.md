@@ -3,7 +3,4 @@ layout: home
 title: Home
 ---
 
-# The Exocore Package
-
-[![](/assets/resident-evil-mansion-outisde.jpeg)]
-
+[(/assets/imgs/resident-evil-mansion-outside.jpeg)]
