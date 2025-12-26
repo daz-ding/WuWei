@@ -12,7 +12,7 @@ repository: remiliacorp/exocore
 ##############################################
 
 jekyll_analytics:        # Uncomment desired analytics tracker and input details
-#  GoogleAnalytics:          # Uncomment section if you want to track with Google Analytics
+GoogleAnalytics:          # Uncomment section if you want to track with Google Analytics
 #    id: UA-123-456          # Required - replace with your tracking id
 #    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
