@@ -11,12 +11,14 @@
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/Resident-evil-mansion-outside.jpeg"
+                "file": "index.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Resident-evil-mansion-outside"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -205,8 +207,8 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "_daily/2025-12-26.md",
     "assets/imgs/Resident-evil-mansion-outside.jpeg",
+    "_daily/2025-12-26.md",
     "readme.md",
     "assets/imgs/glow_sakura1.png",
     "ring.md",
