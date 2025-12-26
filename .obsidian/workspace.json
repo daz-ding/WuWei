@@ -11,14 +11,12 @@
             "id": "3aa1ea3782e80e19",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_daily/2025-12-26.md",
-                "mode": "source",
-                "source": true
+                "file": "assets/imgs/Resident-evil-mansion-outside.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "2025-12-26"
+              "icon": "lucide-image",
+              "title": "Resident-evil-mansion-outside"
             }
           }
         ]
@@ -207,8 +205,9 @@
   },
   "active": "3aa1ea3782e80e19",
   "lastOpenFiles": [
-    "readme.md",
     "_daily/2025-12-26.md",
+    "assets/imgs/Resident-evil-mansion-outside.jpeg",
+    "readme.md",
     "assets/imgs/glow_sakura1.png",
     "ring.md",
     "images/FNWz62JUUAEJZ3M.jpg",
@@ -219,7 +218,6 @@
     "images/guilded_image_a29150ea687b49022ad957eb5db2024b.png",
     "images/IMG_3869.JPG",
     "images/IMG_3969.JPG",
-    "images/IMG_4091.JPG",
     "_articles/Configure Exocore for Personal Use.md",
     "_daily/2022-05-11.md",
     "_daily/2022-10-29.md",
